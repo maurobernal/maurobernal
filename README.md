@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @maurobernal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @maurobernal. 
+- 👀 I’m Devops .Net, ScrumMaster, SysAdmin, IT Callcenters, DBA SQL Server, Mikrotik, PMO ERP Bejerman, PenTester 
+- 📫 How to reach me in: 
+- ✨ https://youtube.com/c/maurobernal
+- ✨ https://twitter.com/_maurobernal
+- ✨ https://tiktok.com/@_maurobernal
+- ✨ https://maurobernal.com.ar
 
-<!---
-maurobernal/maurobernal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
