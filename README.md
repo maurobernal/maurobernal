@@ -6,3 +6,5 @@
 - ✨ https://tiktok.com/@_maurobernal
 - ✨ https://maurobernal.com.ar
 
+https://github-readme-stats.vercel.app/api/?username=maurobernal
+
