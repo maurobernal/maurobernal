@@ -8,3 +8,6 @@
 
 https://github-readme-stats.vercel.app/api/?username=maurobernal
 
+[![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/api/?username=maurobernal)]
+(https://github-readme-stats.vercel.app/api/?username=maurobernal)
