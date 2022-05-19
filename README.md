@@ -7,4 +7,4 @@
 - ✨ https://maurobernal.com.ar
 
 
-[![Stats](https://github-readme-stats.vercel.app/api/?username=maurobernal)]
+[![Stats](https://github-readme-stats.vercel.app/api/?username=maurobernal&show_icons=true&theme=dark)]
